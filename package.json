@@ -1,0 +1,9 @@
+{
+  "name": "iphone-vercel-bot",
+  "version": "1.0.0",
+  "main": "api/messages.js",
+  "license": "MIT",
+  "dependencies": {
+    "botbuilder": "^4.22.0"
+  }
+}
